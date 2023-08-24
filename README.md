@@ -8,6 +8,7 @@ This is a simple web page that fetches news data from an API and categorizes the
 This web page demonstrates how to use JavaScript to fetch news data from an API and display it in different categories. The news data is categorized into "latest" and "old" based on a specified cutoff date. The fetched data is then displayed using HTML and Bootstrap for styling.
 
 ## HTML CODE : This is the Index.cshtml code in VS project
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -77,6 +78,7 @@ This web page demonstrates how to use JavaScript to fetch news data from an API 
     </script>
 </body>
 </html>
+```
 
 ## Website
 Here you can see the website view how its look like the previous code I mentioned.
