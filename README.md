@@ -80,6 +80,9 @@ This web page demonstrates how to use JavaScript to fetch news data from an API 
 
 ## Website
 Here you can see the website view how its look like the previous code I mentioned.
+![image](https://github.com/hfarooqupm/apiproject/assets/78760561/60f95a1c-208d-4028-a615-8bfce6d732d8)
+![image](https://github.com/hfarooqupm/apiproject/assets/78760561/a6cd985a-d38b-4b60-9e37-a18f37e6633c)
+![image](https://github.com/hfarooqupm/apiproject/assets/78760561/618fcbf0-83b9-4a8e-8fc9-bebacd98c0a9)
 
 
 
